@@ -7,5 +7,5 @@ for(let i=0;i<ul.children.length;i++){
 	// console.log(ul.children[i]);
 	if(ul.children[i].id === "level"){
 		// let index = i+1;
-		window.alert("The level of the element is: "+i);
+		alert("The level of the element is: "+i);
 	}
